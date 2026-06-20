@@ -1,0 +1,63 @@
+.bg-container-1{
+    background-color:grey;
+    color: white;
+    text-align: center;
+}
+.bg-container-2{
+    color: black;
+    text-align: center;
+    font-size:20px;
+}
+.price{
+    color: green;
+    
+}
+.offer{
+    color: orange;
+}
+.stock{
+    color:brown;
+   
+}
+.bg-container-3{
+    font-size:25px;
+}
+.bg-container-4{
+    font-size:25px;
+}
+.price-1{
+    color:green;
+}
+.offer-1{
+    color:orange;
+}
+.stock-1{
+    color:brown;
+}
+.bg-container-5{
+    font-size:25px;
+}
+.price-2{
+    color:green;
+}
+.offer-2{
+    color:orange;
+}
+.stock-2{
+    color:green;
+}
+.bg-container-6{
+    font-size:25px;
+}
+.price-3{
+    color:green;
+}
+.offer-3{
+    color:orange;
+}
+.stock-3{
+    color:brown;
+}
+.bg-container-7{
+    background-color: green;
+}
